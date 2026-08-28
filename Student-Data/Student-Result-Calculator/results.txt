@@ -1,7 +1,0 @@
-Student Name   Subject 1   Subject 2   Subject 3   Subject 4   Subject 5   Subject 6   Total Marks    Obtained Marks    Average     Percentage  
-Ali            23.0        45.0        43.0        45.0        50.0        23.0        300            229.0             38.17       76.33       %
-Asim           45.0        35.0        48.0        34.0        47.0        0.0         300            209.0             34.83       69.67       %
-Ahmed          40.0        42.0        35.0        34.0        39.0        34.0        300            224.0             37.33       74.67       %
-Ilham          45.0        34.0        47.0        34.0        0.0         50.0        300            210.0             35.00       70.00       %
-Abdul          23.0        43.0        43.0        0.0         0.0         23.0        300            132.0             22.00       44.00       %
-Hassan         45.0        34.0        50.0        0.0         32.0        49.0        300            210.0             35.00       70.00       %
