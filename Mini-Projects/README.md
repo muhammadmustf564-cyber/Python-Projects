@@ -9,3 +9,25 @@ A beginner Python project that uses regular expressions to validate phone number
 ## ```3. Python-String-Validation```
 String Validation
 A Python program that uses built-in string methods to check for alphanumeric, alphabetic, numeric, lowercase, and uppercase characters.
+
+# 🧮 Menu-Driven Calculator
+
+A simple Python command-line calculator that performs **addition, subtraction, multiplication, and division**.
+
+### Concepts Used
+
+* Functions
+* Loops
+* Conditional statements
+* User input
+* `try/except` error handling
+* Basic arithmetic operations
+
+### Run
+
+```bash
+python calculator.py
+```
+
+This project was created to practice Python fundamentals and logical problem-solving.
+
