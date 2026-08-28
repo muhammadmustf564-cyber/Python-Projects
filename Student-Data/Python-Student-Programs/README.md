@@ -1,13 +1,10 @@
-# Python_Student_Programs
-Python practice programs: Counting student fails and filtering students
+# Python-Student-Programs
 
-# Python Student Programs
-This repository contains two beginner Python programs:
+A collection of simple Python programs focused on processing student data using dictionaries, nested data structures, loops, conditions, and basic calculations.
 
-1. `fail_count_subjects.py` - Counts how many subjects each student has failed based on marks.
-2. `students_above 2_fail.py` - Prints students who have more than 2 failed subjects.
+## 📚 Programs Included
 
-These programs help practice loops, dictionaries, and conditional statements in Python.
+* **Students-Above-2-Fail** — Identifies students who have failed in more than two subjects.
+* **Fail-Count-Students** — Calculates the number of failed subjects for each student based on their marks.
 
-**Author:**
-Istikhar Naz
+These programs help practice Python data structures and basic data-processing logic through student-related examples.
