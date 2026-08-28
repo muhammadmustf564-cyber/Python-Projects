@@ -42,5 +42,25 @@ The program provides **Too High**, **Too Low**, or **Correct** hints and counts 
 * User input
 * Basic game logic
 * f-strings
-* 
+  
 This project demonstrates random number generation, user interaction, and game logic in Python.
+
+
+## ```. 🐍 Snake-Water-Gun```
+
+A simple Python game where the player competes against a computer-generated choice of Snake, Water, or Gun.
+
+### Concepts Used
+
+* Random module
+* Dictionaries
+* Conditional statements
+* Input validation
+* Basic game logic
+
+```bash
+python snake_water_gun.py
+```
+
+This project demonstrates how Python dictionaries, random choices, and conditional logic can be used to build a simple interactive game.
+
