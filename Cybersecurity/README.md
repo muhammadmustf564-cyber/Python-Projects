@@ -51,7 +51,7 @@ python login_system.py
 This project demonstrates basic username/password authentication with limited login attempts.
 
 
-## ```🔑 Password Checker```
+## ```🔑 Password-Checker```
 
 A Python program that checks password strength based on:
 
@@ -68,7 +68,7 @@ A Python program that checks password strength based on:
 
 This project demonstrates how Python can be used to validate basic password-strength requirements.
 
-## ``` .🌐 IP Address Lookup```
+## ``` .🌐 IP-Address-Lookup```
 
 A Python program that resolves a website or domain name to its IP address using the `socket` module.
 
