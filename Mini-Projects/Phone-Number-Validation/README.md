@@ -1,4 +1,4 @@
-# Python Phone Number Validator
+# Phone Number Validation
 
 A simple Python mini project that validates a 10-digit phone number using **Regular Expressions (Regex)**.
 
