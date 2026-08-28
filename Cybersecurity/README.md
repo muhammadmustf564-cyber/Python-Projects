@@ -68,3 +68,18 @@ A Python program that checks password strength based on:
 
 This project demonstrates how Python can be used to validate basic password-strength requirements.
 
+## ``` .🌐 IP Address Lookup```
+
+A Python program that resolves a website or domain name to its IP address using the `socket` module.
+
+### Concepts Used
+
+* `socket` module
+* DNS resolution
+* User input
+* Exception handling
+
+### 🎯 Purpose
+
+This project demonstrates how Python can be used to perform basic DNS and IP address lookups, supporting fundamental networking and cybersecurity concepts.
+
