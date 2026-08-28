@@ -84,7 +84,7 @@ A Python program that resolves a website or domain name to its IP address using 
 This project demonstrates how Python can be used to perform basic DNS and IP address lookups, supporting fundamental networking and cybersecurity concepts.
 
 
-## ```📝 Log Scanner```
+## ```📝 Log-Scanner```
 
 A Python program that scans log files for keywords such as **error, failed, and warning** and displays the matching lines.
 
