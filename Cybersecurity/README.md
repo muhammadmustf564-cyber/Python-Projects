@@ -101,3 +101,22 @@ A Python program that scans log files for keywords such as **error, failed, and 
 This project demonstrates how Python can be used to scan logs and identify important or potentially suspicious entries for basic security monitoring.
 
 
+## ```🔐 Advanced-Password-Checker```
+
+A Python password validation tool that classifies passwords as **Strong, Medium, or Weak** and identifies missing security requirements.
+
+### Concepts Used
+
+* Password validation
+* `any()`
+* Lists
+* Loops
+* String methods
+* Conditional statements
+* Attempt control
+
+## 🎯 Purpose
+
+This project demonstrates a detailed approach to password-strength validation by classifying passwords, identifying missing security requirements, and providing useful feedback to the user.
+
+
