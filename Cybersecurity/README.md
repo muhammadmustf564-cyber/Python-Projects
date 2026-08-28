@@ -4,11 +4,10 @@ A Python-based authentication system that supports multiple users, limits login 
 
 ### Features
 
-* Multiple user authentication
+* Multiple users
 * 3 login attempts
 * Account lockout
 * Login activity logging
-* Basic exception handling
 
 ### Concepts Used
 
@@ -17,14 +16,15 @@ A Python-based authentication system that supports multiple users, limits login 
 * Conditional statements
 * File handling
 * `try / except`
-* Authentication and logging
+* Authentication & logging
 
 ### Run
 
 ```bash
 python secure_login_system.py
 ```
-This project demonstrates how authentication, login attempt limits, and activity logging can be implemented using Python.
+
+This project demonstrates basic authentication, access control, and security logging using Python.
 
 
   
@@ -49,3 +49,22 @@ The user gets **three login attempts**. Correct credentials grant access, while 
 python login_system.py
 ```
 This project demonstrates basic username/password authentication with limited login attempts.
+
+
+## ```🔑 Password Checker```
+
+A Python program that checks password strength based on:
+
+* Minimum 9 characters
+* Uppercase and lowercase letters
+* Numbers
+* Special characters
+
+### Concepts Used
+
+`any()`, string methods, user input, and conditional statements.
+
+## 🎯 Purpose
+
+This project demonstrates how Python can be used to validate basic password-strength requirements.
+
