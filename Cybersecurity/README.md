@@ -1,31 +1,5 @@
 ## ```🔐 Secure-Login-System```
 
-A Python-based authentication system that supports multiple users, limits login attempts, and logs successful and failed login attempts.
-
-### Features
-
-* Multiple user authentication
-* 3 login attempts
-* Account lockout
-* Login activity logging
-* Basic exception handling
-
-### Concepts Used
-
-* Dictionaries
-* Loops
-* Conditional statements
-* File handling
-* `try / except`
-* Authentication and logging
-
-### Run
-
-```bash
-python secure_login_system.py
-```
-# 🔐 Secure Login System
-
 A Python-based login system that verifies user credentials, limits login attempts, and records login activity in a log file.
 
 ## 📌 About
@@ -114,7 +88,6 @@ adil - fail
 
 This project demonstrates how authentication, login attempt limits, and activity logging can be implemented using Python.
 
-This project demonstrates basic username/password authentication with limited login attempts.
 
   
 ## ```🔐 Login-System```
@@ -138,3 +111,4 @@ The user gets **three login attempts**. Correct credentials grant access, while 
 python login_system.py
 ```
 
+This project demonstrates basic username/password authentication with limited login attempts.
