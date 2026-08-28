@@ -1,7 +1,12 @@
-## ```Python_Student_Programs```
+## ```Python Student Programs```
 
-Python Student Programs
-A collection of beginner Python programs for analyzing student marks, counting failed subjects, and filtering students based on their academic performance.
+Simple Python programs for processing student data using dictionaries, loops, conditions, and basic data structures.
+
+## 📚 Programs
+
+* **Students-Above-2-Fail** — Finds students with more than two failed subjects.
+* **Fail-Count-Students** — Counts failed subjects based on student marks.
+
 
 
 ## ```Student-Result-Calculator```
