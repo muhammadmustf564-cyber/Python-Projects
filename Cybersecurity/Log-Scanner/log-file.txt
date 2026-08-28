@@ -1,0 +1,7 @@
+System started successfully
+error: file not found
+User logged in
+ERROR: connection failed
+Process completed
+warning: your system in danger
+
