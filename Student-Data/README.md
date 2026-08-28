@@ -1,9 +1,3 @@
-## ```Python-Student-Average```
-
-Student Average Marks Calculator
-A beginner Python project that uses dictionaries, lists, and loops to calculate and display a student's average marks.
-
-  
 ## ```Python_Student_Programs```
 
 Python Student Programs
