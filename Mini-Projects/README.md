@@ -66,7 +66,7 @@ python snake_water_gun.py
 This project demonstrates how Python dictionaries, random choices, and conditional logic can be used to build a simple interactive game.
 
 
-## ```. 🌡️ Temperature Converter```
+## ```. 🌡️ Temperature-Converter```
 
 A simple Python program that converts **Celsius to Fahrenheit** and **Fahrenheit to Celsius** based on the user's choice.
 
