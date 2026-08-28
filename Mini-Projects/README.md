@@ -28,7 +28,7 @@ A simple Python command-line calculator that performs **addition, subtraction, m
 This project focuses on building a menu-driven program using functions, loops, and user input.
 
 
-## ```. 🎯 Number Guessing Game```
+## ```. 🎯 Number-Guessing-Game```
 
 A simple Python game where the computer randomly selects a number between **1 and 100**, and the player tries to guess it.
 
