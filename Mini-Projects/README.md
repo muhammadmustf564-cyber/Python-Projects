@@ -5,9 +5,12 @@ A beginner-friendly Python mini project that uses **Regular Expressions (Regex)*
 **Concepts:** Python, Regex, Input Validation
 
 
-## ```. Python-String-Validation```
-String Validation
-A Python program that uses built-in string methods to check for alphanumeric, alphabetic, numeric, lowercase, and uppercase characters.
+## ```. String-Validation```
+
+A beginner-friendly Python mini project that validates a string using built-in methods such as `isalnum()`, `isalpha()`, `isdigit()`, `islower()`, and `isupper()`. The project also demonstrates the use of Python's `any()` function.
+
+**Concepts:** Python, Strings, String Methods, `any()`, Validation
+
 
 ## ```. 🧮 Menu-Driven Calculator```
 
