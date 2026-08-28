@@ -61,8 +61,3 @@ Wrong attempt
 
 Account Locked
 ```
-
-## 🎯 Purpose
-
-This project was created to practice basic authentication concepts, loops, functions, conditional statements, and login attempt control in Python.
-
