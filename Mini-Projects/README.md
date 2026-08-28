@@ -1,6 +1,8 @@
-## ```. Python-Regex-Phone-Validation```
-Phone Number Validation
-A beginner Python project that uses regular expressions to validate phone numbers based on specific formatting and digit requirements.
+## ```Phone-Number-Validation```
+
+A beginner-friendly Python mini project that uses **Regular Expressions (Regex)** to validate 10-digit phone numbers. It checks whether the number starts with **7, 8, or 9** and contains exactly 10 digits.
+
+**Concepts:** Python, Regex, Input Validation
 
 
 ## ```. Python-String-Validation```
