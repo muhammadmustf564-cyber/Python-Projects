@@ -1,2 +1,6 @@
-# Python-Projects
-A collection of beginner-friendly Python projects built to strengthen programming fundamentals through hands-on practice. The projects cover automation, cybersecurity-related tasks, AI/voice assistance, file handling, input validation, regular expressions, and data processing.
+# 🐍 Python-Projects
+
+A collection of beginner-friendly Python projects built through hands-on practice to strengthen programming fundamentals and problem-solving skills.
+
+The projects include **mini-projects, cybersecurity tools, input validation, regular expressions, file handling, and practical Python applications**.
+
