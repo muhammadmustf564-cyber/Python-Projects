@@ -1,91 +1,29 @@
 ## ```🔐 Secure-Login-System```
 
-A Python-based login system that verifies user credentials, limits login attempts, and records login activity in a log file.
+A Python-based authentication system that supports multiple users, limits login attempts, and logs successful and failed login attempts.
 
-## 📌 About
-
-This project is an improved version of a basic login system.
-
-Instead of using a single hardcoded username and password, the program stores multiple users and their passwords in a Python dictionary. It also records successful and failed login attempts in a log file.
-
-The user is given **three attempts** to log in. After three failed attempts, the account is locked.
-
-## ⚙️ Features
+### Features
 
 * Multiple user authentication
-* Username and password verification
-* Maximum of 3 login attempts
-* Account lockout after failed attempts
-* Successful login logging
-* Failed login logging
+* 3 login attempts
+* Account lockout
+* Login activity logging
 * Basic exception handling
-* Login activity stored in `log.txt`
 
-## 🛠️ Concepts Used
+### Concepts Used
 
-* Python Dictionaries
-* `for` loop
+* Dictionaries
+* Loops
 * Conditional statements
-* User input
 * File handling
-* `with open()`
-* Append mode (`"a"`)
 * `try / except`
-* Authentication logic
+* Authentication and logging
 
-## 📁 Files
-
-```text
-Secure-Login-System/
-├── secure_login_system.py
-├── log.txt
-└── README.md
-```
-
-## ▶️ How to Run
-
-Run the following command:
+### Run
 
 ```bash
 python secure_login_system.py
 ```
-
-Enter a username and password when prompted.
-
-## 💻 Example
-
-```text
-Enter username: ali
-Enter password: 1234
-login successful
-```
-
-For incorrect credentials:
-
-```text
-Enter username: ali
-Enter password: 9999
-wrong credentials
-```
-
-After three failed attempts:
-
-```text
-Account Locked
-```
-
-## 📝 Logging
-
-The program records login attempts in `log.txt`.
-
-Example:
-
-```text
-ali - success
-ahmad - fail
-adil - fail
-```
-
 This project demonstrates how authentication, login attempt limits, and activity logging can be implemented using Python.
 
 
@@ -110,5 +48,4 @@ The user gets **three login attempts**. Correct credentials grant access, while 
 ```bash
 python login_system.py
 ```
-
 This project demonstrates basic username/password authentication with limited login attempts.
