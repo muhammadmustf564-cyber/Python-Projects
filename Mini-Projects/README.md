@@ -24,7 +24,7 @@ A simple Python command-line calculator that performs **addition, subtraction, m
 * User input
 * `try/except` error handling
 * Basic arithmetic operations
-
+### Purpose
 This project focuses on building a menu-driven program using functions, loops, and user input.
 
 
@@ -42,7 +42,8 @@ The program provides **Too High**, **Too Low**, or **Correct** hints and counts 
 * User input
 * Basic game logic
 * f-strings
-  
+
+### Purpose
 This project demonstrates random number generation, user interaction, and game logic in Python.
 
 
@@ -61,6 +62,23 @@ A simple Python game where the player competes against a computer-generated choi
 ```bash
 python snake_water_gun.py
 ```
-
+### Purpose
 This project demonstrates how Python dictionaries, random choices, and conditional logic can be used to build a simple interactive game.
+
+
+## ```. 🌡️ Temperature Converter```
+
+A simple Python program that converts **Celsius to Fahrenheit** and **Fahrenheit to Celsius** based on the user's choice.
+
+### Concepts Used
+
+* User input
+* Conditional statements
+* `float()`
+* Arithmetic operations
+* Conversion formulas
+
+### Purpose
+
+This project demonstrates the use of user input, conditional logic, and mathematical formulas to perform temperature conversions in Python.
 
