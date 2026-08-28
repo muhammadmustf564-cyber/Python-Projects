@@ -24,7 +24,6 @@ A Python-based authentication system that supports multiple users, limits login 
 ```bash
 python secure_login_system.py
 ```
-This project demonstrates how authentication, login attempt limits, and activity logging can be implemented using Python.
 
 
 
@@ -50,4 +49,3 @@ The user gets **three login attempts**. Correct credentials grant access, while 
 python login_system.py
 ```
 
-This project was created to practice Python fundamentals and basic cybersecurity authentication concepts.
