@@ -33,4 +33,9 @@ Line 5: Warning: Multiple login attempts
 Line 8: System error detected
 ```
 
+## 🎯 Purpose
+
+This project demonstrates how Python can be used to scan logs and identify important or potentially suspicious entries for basic security monitoring.
+
+
 
