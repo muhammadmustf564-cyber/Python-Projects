@@ -62,9 +62,7 @@ A Python program that checks password strength based on:
 
 `any()`, string methods, user input, and conditional statements.
 
-## 🎯 Purpose
 
-This project demonstrates how Python can be used to validate basic password-strength requirements.
 
 ## ```🌐 IP-Address-Lookup```
 
