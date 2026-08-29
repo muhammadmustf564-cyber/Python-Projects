@@ -34,4 +34,9 @@ Fahrenheit = (Celsius × 9/5) + 32
 Celsius = (Fahrenheit - 32) × 5/9
 ```
 
+## Purpose
+
+This project demonstrates the use of user input, conditional logic, and mathematical formulas to perform temperature conversions in Python.
+
+
 
