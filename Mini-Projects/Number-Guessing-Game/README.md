@@ -51,6 +51,5 @@ Correct! You Win
 You guessed in 3 attempts
 ```
 
-## 🎯 Purpose
-
-This project was created to practice Python loops, conditional statements, random number generation, user input, and basic problem-solving.
+## Purpose
+This project demonstrates random number generation, user interaction, and game logic in Python.
