@@ -49,6 +49,7 @@ python login_system.py
 ```
 
 
+
 ## ```🔑 Password-Checker```
 
 A Python program that checks password strength based on:
@@ -75,9 +76,7 @@ A Python program that resolves a website or domain name to its IP address using 
 * User input
 * Exception handling
 
-### 🎯 Purpose
 
-This project demonstrates how Python can be used to perform basic DNS and IP address lookups, supporting fundamental networking and cybersecurity concepts.
 
 
 ## ```📝 Log-Scanner```
