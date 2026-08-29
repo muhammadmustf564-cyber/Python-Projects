@@ -36,3 +36,11 @@ IP Address: 142.250.xxx.xxx
 
 IP address and DNS lookup are fundamental networking concepts that are useful for understanding network reconnaissance and cybersecurity.
 
+## 🎯 Purpose
+
+This project demonstrates how Python can be used to perform basic DNS and IP address lookups, supporting fundamental networking and cybersecurity concepts.
+
+
+
+
+
