@@ -13,12 +13,12 @@ Simple Python programs for processing student data using dictionaries, loops, co
 A Python file-handling project that reads student marks from a text file, calculates total marks, obtained marks, average, and percentage, and generates a formatted result file.
 
 
-## ```Website Logs```
+## ```Website-Logs```
 
 A Python and Pandas project for cleaning and analyzing website log data. It processes CSV logs, identifies popular pages, 404 errors, and active IP addresses, and generates a cleaned dataset.
 
 
-## ```Student Data Cleaning```
+## ```Student-Data-Cleaning```
 
 A Pandas-based project that cleans student data, handles missing values, filters and sorts records, and generates cleaned CSV and Excel files.
 
