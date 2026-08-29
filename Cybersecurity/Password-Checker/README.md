@@ -44,5 +44,7 @@ Hello@12345 => strong password
 Enter password: hello123
 hello123 => weak password
 ```
+## 🎯 Purpose
 
+This project demonstrates how Python can be used to validate basic password-strength requirements.
 
