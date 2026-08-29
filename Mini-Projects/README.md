@@ -41,8 +41,7 @@ The program provides **Too High**, **Too Low**, or **Correct** hints and counts 
 * Basic game logic
 * f-strings
 
-### Purpose
-This project demonstrates random number generation, user interaction, and game logic in Python.
+
 
 
 ## ```🐍 Snake-Water-Gun```
