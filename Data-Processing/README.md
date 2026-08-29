@@ -18,6 +18,12 @@ A Python file-handling project that reads student marks from a text file, calcul
 A Python and Pandas project for cleaning and analyzing website log data. It processes CSV logs, identifies popular pages, 404 errors, and active IP addresses, and generates a cleaned dataset.
 
 
+## ```Student Data Cleaning```
+
+A Pandas-based project that cleans student data, handles missing values, filters and sorts records, and generates cleaned CSV and Excel files.
+
+**Skills:** Python, Pandas, NumPy, Data Cleaning, Data Analysis
+
 
 
 
