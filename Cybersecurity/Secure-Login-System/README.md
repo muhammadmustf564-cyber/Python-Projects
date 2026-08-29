@@ -85,3 +85,6 @@ ali - success
 ahmad - fail
 adil - fail
 ```
+
+## Purpose
+This project demonstrates basic authentication, access control, and security logging using Python.
