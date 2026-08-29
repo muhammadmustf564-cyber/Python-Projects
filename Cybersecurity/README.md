@@ -91,9 +91,6 @@ A Python program that scans log files for keywords such as **error, failed, and 
 * String methods
 * Basic log analysis
 
-## 🎯 Purpose
-
-This project demonstrates how Python can be used to scan logs and identify important or potentially suspicious entries for basic security monitoring.
 
 
 ## ```🔐 Advanced-Password-Checker```
