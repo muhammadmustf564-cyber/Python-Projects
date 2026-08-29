@@ -1,4 +1,4 @@
-## ```Python Student Programs```
+## ```Python-Student-Programs```
 
 Simple Python programs for processing student data using dictionaries, loops, conditions, and basic data structures.
 
