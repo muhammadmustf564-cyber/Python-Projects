@@ -59,8 +59,7 @@ A simple Python game where the player competes against a computer-generated choi
 ```bash
 python snake_water_gun.py
 ```
-### Purpose
-This project demonstrates how Python dictionaries, random choices, and conditional logic can be used to build a simple interactive game.
+
 
 
 ## ```🌡️ Temperature-Converter```
