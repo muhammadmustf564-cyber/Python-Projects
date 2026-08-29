@@ -24,7 +24,7 @@ A Python-based authentication system that supports multiple users, limits login 
 python secure_login_system.py
 ```
 
-This project demonstrates basic authentication, access control, and security logging using Python.
+
 
 
   
