@@ -39,5 +39,6 @@ You chose gun
 Computer chose snake
 You win!
 ```
-
+## Purpose
+This project demonstrates how Python dictionaries, random choices, and conditional logic can be used to build a simple interactive game.
 
