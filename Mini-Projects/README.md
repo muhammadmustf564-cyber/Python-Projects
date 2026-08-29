@@ -24,8 +24,6 @@ A simple Python command-line calculator that performs **addition, subtraction, m
 * User input
 * `try/except` error handling
 * Basic arithmetic operations
-### Purpose
-This project focuses on building a menu-driven program using functions, loops, and user input.
 
 
 ## ```🎯 Number-Guessing-Game```
