@@ -107,8 +107,6 @@ A Python password validation tool that classifies passwords as **Strong, Medium,
 * Conditional statements
 * Attempt control
 
-## 🎯 Purpose
 
-This project demonstrates a detailed approach to password-strength validation by classifying passwords, identifying missing security requirements, and providing useful feedback to the user.
 
 
