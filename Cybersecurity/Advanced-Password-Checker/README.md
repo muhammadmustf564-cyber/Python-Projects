@@ -60,5 +60,9 @@ Enter password: Hello@123
 Strong password
 ```
 
+## 🎯 Purpose
+
+This project demonstrates a detailed approach to password-strength validation by classifying passwords, identifying missing security requirements, and providing useful feedback to the user.
+
 
 
