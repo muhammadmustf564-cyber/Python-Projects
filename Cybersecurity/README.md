@@ -26,7 +26,6 @@ python secure_login_system.py
 
 
 
-
   
 ## ```🔐 Login-System```
 
@@ -48,7 +47,6 @@ The user gets **three login attempts**. Correct credentials grant access, while 
 ```bash
 python login_system.py
 ```
-This project demonstrates basic username/password authentication with limited login attempts.
 
 
 ## ```🔑 Password-Checker```
