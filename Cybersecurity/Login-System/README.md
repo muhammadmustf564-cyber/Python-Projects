@@ -61,3 +61,7 @@ Wrong attempt
 
 Account Locked
 ```
+
+## Purpose
+This project demonstrates basic username/password authentication with limited login attempts.
+
