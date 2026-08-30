@@ -54,6 +54,11 @@ lowest_5 = df.sort_values(by = 'Marks',ascending=True).head(5)
 print("Lowest 5 students:")
 print(lowest_5)
 
-#new file
+#new files
+
+#csv file
+df.to_csv("student_clean_data.csv", index=False)
+
+#Excel file
 df.to_excel("student_clean_data.xlsx", index=False)
 
