@@ -1,4 +1,4 @@
-# Sales Data — Data
+# Sales-Data — Data
 
 This folder contains the datasets used in the Sales Data cleaning project.
 
