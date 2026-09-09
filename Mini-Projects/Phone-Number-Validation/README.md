@@ -60,3 +60,6 @@ No
 * Perform input validation
 * Practice conditional statements
 
+## 🎯 Purpose
+
+The purpose of this project is to validate phone numbers using Python Regular Expressions (Regex) and practice input validation and pattern matching.
