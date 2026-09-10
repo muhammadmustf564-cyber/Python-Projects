@@ -1,14 +1,15 @@
-# Sales-Data — Data
+# Sales Data
 
-This folder contains the datasets used in the Sales Data cleaning project.
+This folder contains the **input and cleaned sales datasets** used in the project.
 
 ## Files
 
-* `sales_dirty_data.csv` — Original sales dataset containing uncleaned data.
-* `sales_clean_data.csv` — Cleaned version of the sales dataset.
-* `sales_clean_data.xlsx` — Cleaned sales dataset saved in Excel format.
+* `sales_dirty_data.csv` — Original sales dataset containing duplicate and missing values.
+* `sales_clean_data.csv` — Cleaned sales dataset exported in CSV format.
+* `sales_clean_data.xlsx` — The same cleaned sales dataset exported in Excel format.
 
-## Data Workflow
+## Data Flow
 
-The original `sales_dirty_data.csv` file is processed using the Python cleaning script. The cleaned data is then saved as both CSV and Excel files for further use and analysis.
+`Sales Dirty Data` → **Python/Pandas Cleaning** → `Sales Clean Data`
 
+The cleaned data is saved in both **CSV** and **Excel** formats for easy use and analysis.
