@@ -25,6 +25,8 @@ A Pandas-based project that cleans student data, handles missing values, filters
 **Skills:** Python, Pandas, NumPy, Data Cleaning, Data Analysis
 
 
+## ```📊 Sales-Data```
 
+A Python and Pandas project focused on cleaning and preprocessing sales data. It handles duplicate and missing values, calculates total amounts, and exports the cleaned dataset to CSV and Excel formats.
 
 
