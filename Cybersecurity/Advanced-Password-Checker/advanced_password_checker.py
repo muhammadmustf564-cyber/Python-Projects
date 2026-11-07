@@ -35,7 +35,7 @@ for attempt in range(3):
       print("-", e)
 
     count += 1
-    print(f"attemp {count} is medium")
+    print(f"attempt {count} is medium")
 
   else:
     print("Weak Password")
