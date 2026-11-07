@@ -5,7 +5,7 @@ import pywhatkit
 import wikipedia
 import pyjokes
 import datetime
-import random 
+import random
 import string
 
 def speak(text):
@@ -37,6 +37,8 @@ def generate_strong_password():
         random.choice(string.digits),
         random.choice(string.punctuation)
     ]
+
+
     password += [random.choice(letters) for _ in range(6)]
     random.shuffle(password)
     return "".join(password)
@@ -64,10 +66,14 @@ def respond(command):
     elif "joke" in command:
         joke = pyjokes.get_joke()
         speak(joke)
+    elif "greeting" in command:
+        greetings = ["Hello Sir","Hi boss","Good to see u","Assalamulakium"]
+        print(random.choice(greetings))
     elif "generate password" in command:
         pwd = generate_strong_password()
         speak(f"Your strong password is {pwd}")
         print("Your strong password:", pwd)
+
     else:
         speak("sorry sir,i cant do yet.")
 
@@ -79,7 +85,4 @@ while True:
         speak("goodbay sir")
         break
     elif command != "" :
-
         respond (command)
-
-
